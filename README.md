@@ -11,8 +11,7 @@ A **classic tank battle game** built using **Java**, featuring **strategic gamep
 
 ## 🛠️ Technologies Used  
 - **Programming Language:** Java  
-- **IDE:** Eclipse / IntelliJ / NetBeans (mention which one you used)  
-- **Libraries Used:** Java Swing / JavaFX (mention any UI framework you used)  
+- **IDE:** NetBeans  
 
 ## ⚡ Installation & Setup  
 1. Clone the repository:  
